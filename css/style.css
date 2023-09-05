@@ -25,7 +25,7 @@ span, a{
   color: #f90;
 }
 
-p{
+p, #footer{
   color: #7d7987;
   font-size: 14px;
   line-height: 28px;
@@ -33,4 +33,11 @@ p{
 
 .space{
   margin-right: 14px;
+}
+
+#line{
+  width: 568px;
+  height: 0;
+  margin: 0 auto 8px;
+  border: 1px solid #eceff2;
 }
