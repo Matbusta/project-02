@@ -41,3 +41,9 @@ p, #footer{
   margin: 0 auto 8px;
   border: 1px solid #eceff2;
 }
+
+#balls{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
